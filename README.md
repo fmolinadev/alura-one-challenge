@@ -54,7 +54,7 @@
     Deploy:
 </h3>
 <p>
-    Link:
+    Link: https://aluraone-challenge.netlify.app/
 </p>
 
 # alura-one-challenge
