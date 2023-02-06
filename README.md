@@ -57,7 +57,7 @@
     Deploy:
 </h3>
 <p>
-    Link: https://aluraone-challenge.netlify.app/
+    Link: https://thefranciscomolina.github.io/alura-one-challenge/
 </p>
 
 
